@@ -7,8 +7,8 @@ Bulovi operatori koji su korišćeni prilikom preuzimanja podataka sa Tvitera:
     
     "(ММР OR богиње) (епидемија OR епидемије OR епидемији OR епидемију OR епидемијом OR заражено OR заражених OR заражени OR зараженима OR оболело OR оболели OR оболелих OR оболелим) until:2023-02-22 since:2023-01-01"
     
-    "(MMR OR boginje) (vakcinacija OR vakcinacije OR vakcinaciji OR vakcinaciju OR vakcinacijom OR imunizacija OR imunizacije OR imunizaciji OR imunizaciju OR imunizacijom until:2023-02-22 since:2023-01-01"
+    "(MMR OR boginje) (vakcinacija OR vakcinacije OR vakcinaciji OR vakcinaciju OR vakcinacijom OR imunizacija OR imunizacije OR imunizaciji OR imunizaciju OR imunizacijom) until:2023-02-22 since:2023-01-01"
     
-     "(ММР OR богиње) (вакцинација OR вакцинације OR вакцинацији OR вакцинацију OR вакцинацијом OR имунизација OR имунизације OR имунизацији OR имунизацију OR имунизацијом until:2023-02-22 since:2023-01-01"
+     "(ММР OR богиње) (вакцинација OR вакцинације OR вакцинацији OR вакцинацију OR вакцинацијом OR имунизација OR имунизације OR имунизацији OR имунизацију OR имунизацијом) until:2023-02-22 since:2023-01-01"
     
 
